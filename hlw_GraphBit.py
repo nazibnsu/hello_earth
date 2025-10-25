@@ -1,1 +1,1 @@
-print("hlw GraphBit")
+outE ("hlw GraphBit")
