@@ -1,1 +1,1 @@
-outE ("hlw GraphBit")
+Y ("hlw GraphBit")
